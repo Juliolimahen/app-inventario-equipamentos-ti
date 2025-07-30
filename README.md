@@ -1,0 +1,1 @@
+# app-inventario-equipamentos-ti
